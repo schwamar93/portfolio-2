@@ -96,6 +96,13 @@
         background-color: rgba(241, 241, 241, 0.8);
       
       }
+    .main-work-pic {
+        height: 400px;
+        width: 500px;
+        border: 3px solid rgb(233, 231, 222);
+        margin-bottom: 30px;
+        margin-left: 120px;
+    }
     .small-picture {
         height: 250px;
         width: 350px;
